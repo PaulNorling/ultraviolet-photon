@@ -2,7 +2,7 @@
 layout: ../../../layouts/project.astro
 title: Jquery calculator
 client: Self
-publishDate: 2021-03-07 00:00:00
+publishDate: 2020-03-07 00:00:00
 img: https://lh5.googleusercontent.com/V8tFlANFVkt-we9UDVUgNzqHjFFGdS4p8tKD-ErSuWEFDflDlW0Yza357W7ezEBDC78=w2400
 description: |
   jquery
