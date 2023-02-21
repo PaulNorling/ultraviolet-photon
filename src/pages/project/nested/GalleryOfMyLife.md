@@ -10,5 +10,7 @@ tags:
   - design
   - dev
 ---
-Checkout the desktop site!
-https://frozen-ravine-94578.herokuapp.com/
+Checkout the desktop site!  
+https://frozen-ravine-94578.herokuapp.com/  
+Checkout the repository on Github.  
+https://github.com/PaulNorling/weekend-react-gallery

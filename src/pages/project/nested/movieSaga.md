@@ -10,5 +10,7 @@ tags:
   - design
   - dev
 ---
-Checkout the desktop site!
-https://desolate-shore-03091.herokuapp.com/#/
+Checkout the desktop site!  
+https://desolate-shore-03091.herokuapp.com/#/  
+Checkout the repository on Github.  
+https://github.com/PaulNorling/weekend-movie-sagas

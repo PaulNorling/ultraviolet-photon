@@ -10,5 +10,7 @@ tags:
   - design
   - dev
 ---
-Checkout the desktop site!
-https://evening-headland-44667.herokuapp.com/
+Checkout the desktop site!  
+https://evening-headland-44667.herokuapp.com/  
+Checkout the repository on Github.  
+https://github.com/PaulNorling/pn0r-weekend-jquery-server-calculator

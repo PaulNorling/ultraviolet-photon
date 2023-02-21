@@ -10,5 +10,7 @@ tags:
   - design
   - dev
 ---
-Checkout the desktop site!
-https://immense-bastion-66215.herokuapp.com/#/home
+Checkout the desktop site!  
+https://immense-bastion-66215.herokuapp.com/#/home  
+Checkout the repository on Github.  
+https://github.com/PaulNorling/farmers-marketplace
