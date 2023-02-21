@@ -10,5 +10,5 @@ tags:
   - design
   - dev
 ---
-
+Checkout the desktop site!
 https://immense-bastion-66215.herokuapp.com/#/home

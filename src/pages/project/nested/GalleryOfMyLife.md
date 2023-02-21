@@ -8,7 +8,7 @@ description: |
   React full stack web app!
 tags:
   - design
-  - weld/fabricate
+  - dev
 ---
-
+Checkout the desktop site!
 https://frozen-ravine-94578.herokuapp.com/

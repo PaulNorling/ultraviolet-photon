@@ -8,7 +8,7 @@ description: |
   jquery
 tags:
   - design
-  - weld/fabricate
+  - dev
 ---
-
+Checkout the desktop site!
 https://evening-headland-44667.herokuapp.com/

@@ -8,7 +8,7 @@ description: |
   React full stack web app!
 tags:
   - design
-  - weld/fabricate
+  - dev
 ---
-
+Checkout the desktop site!
 https://desolate-shore-03091.herokuapp.com/#/
