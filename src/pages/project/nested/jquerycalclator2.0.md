@@ -11,6 +11,6 @@ tags:
   - dev
 ---
 Checkout the desktop site!  
-https://mighty-waters-73334.herokuapp.com/ 
+https://mighty-waters-73334.herokuapp.com/  
 Checkout the repository on Github.  
 https://github.com/PaulNorling/JqueryCalculator2.0
